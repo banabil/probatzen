@@ -4,15 +4,15 @@
 	id		= "com.extrema.test"
 	version 	= "1.0.0">
 
-	<name>Test de geolocalización</name>
+	<name>Galderator</name>
 
 	<description>
-		Mi primera app móvil
+		Nik baino geiago dakizula uste al duzu?
 	</description>
 
-	<author href="http://extrema-sistemas.com"
-		email="egonzalez@extrema-sistemas.com">
-		Ezequiel González
+	<author href="http://www.lapitz.com/galderaitor"
+		email="galderaitor@lapitz.com">
+		Lapitz digitala
 	</author>
 
 	<gap:platforms>
