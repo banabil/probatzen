@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns  	= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.extrema.test"
+	id		= "com.lapitz.test"
 	version 	= "1.0.0">
 
-	<name>Galderiator</name>
+	<name>Galderaitor</name>
 
 	<description>
 		Nik baino gehiago dakizula uste al duzu?
@@ -22,11 +22,11 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" gap:role="default" />
-	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" width="96" height="96" />
-	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" width="72" height="72" />
-	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" width="48" height="48" />
-	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" width="36" height="36" />
+	<icon src="kk.jpg" gap:role="default" />
+	<icon src="kk.jpg" width="96" height="96" />
+	<icon src="kk.jpg" width="72" height="72" />
+	<icon src="kk.jpg" width="48" height="48" />
+	<icon src="kk.jpg" width="36" height="36" />
 
     <gap:splash src="appcapture.png" />
 
