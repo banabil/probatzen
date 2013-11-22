@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns  	= "http://www.w3.org/ns/widgets"
-	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	xmlns:gap	= "http://lapitz..com/"
 	id		= "com.lapitz.test"
 	version 	= "1.0.0">
 
@@ -32,6 +32,7 @@
 
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
+	<param name="key" value="MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAySPe4wUvBWvQ4AYVeQvgxaKZHIuwt7dFRsuSOC8GeVBQ6UkuV3R1Oni1FM1V+ChtNWmTrKXpr6p3d7WjVzhF7zlsjHwEMJUYExqC4K76pSkJ+75MRK1nwf9gUojHa7Kd2Wgx15xtRyqSay7srY579PU/AqzSgCNXaIC6ky4fIn7iaNgj4k2paBTb7REG6R1ZvFT+mlV6MnwNbT93MbsHcWN6f9I3Bz0G8MmDq0f18JpSOB2/25/YyyauErUHS4SGAbldwX2dayiMu4Na8W/2oYztpQCZeI5kPVo06oqH9/8VCqRyV5oxQ2syh6fZqKyW2Ia/DAizfF5js7xzKOUvyQIDAQAB"/>
 	
 	<plugin name="Geolocation" value="org.apache.cordova.GeoBroker" />
 
