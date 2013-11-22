@@ -7,7 +7,7 @@
 	<name>Galderiator</name>
 
 	<description>
-		Nik baino geiago dakizula uste al duzu?
+		Nik baino gehiago dakizula uste al duzu?
 	</description>
 
 	<author href="http://www.lapitz.com/galderaitor"
@@ -22,11 +22,11 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="kk.jpg" gap:role="default" />
-	<icon src="kk.jpg" width="96" height="96" />
-	<icon src="kk.jpg" width="72" height="72" />
-	<icon src="kk.jpg" width="48" height="48" />
-	<icon src="kk.jpg" width="36" height="36" />
+	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" gap:role="default" />
+	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" width="96" height="96" />
+	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" width="72" height="72" />
+	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" width="48" height="48" />
+	<icon src="http://lapitz.com/irudiak/lapitz-digitala.jpg" width="36" height="36" />
 
     <gap:splash src="appcapture.png" />
 
