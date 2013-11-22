@@ -22,11 +22,11 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="appicon.png" gap:role="default" />
-	<icon src="icon_72.png" width="96" height="96" />
-	<icon src="icon_72.png" width="72" height="72" />
-	<icon src="icon_48.png" width="48" height="48" />
-	<icon src="icon_36.png" width="36" height="36" />
+	<icon src="kk.jpg" gap:role="default" />
+	<icon src="kk.jpg" width="96" height="96" />
+	<icon src="kk.jpg" width="72" height="72" />
+	<icon src="kk.jpg" width="48" height="48" />
+	<icon src="kk.jpg" width="36" height="36" />
 
     <gap:splash src="appcapture.png" />
 
