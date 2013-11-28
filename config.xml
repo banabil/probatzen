@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns  	= "http://www.w3.org/ns/widgets"
-	xmlns:gap	= "http://lapitz..com/"
+	xmlns:gap	= "http://lapitz.com/"
 	id		= "com.lapitz.test"
-	version 	= "1.0.0">
+	version 	= "1.1.0">
 
 	<name>Galderaitor</name>
 
