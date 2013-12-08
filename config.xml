@@ -22,11 +22,11 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="kk.jpg" gap:role="default" />
-	<icon src="kk.jpg" width="96" height="96" />
-	<icon src="kk.jpg" width="72" height="72" />
-	<icon src="kk.jpg" width="48" height="48" />
-	<icon src="kk.jpg" width="36" height="36" />
+	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" gap:role="default" />
+	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" width="96" height="96" />
+	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" width="72" height="72" />
+	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" width="48" height="48" />
+	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" width="36" height="36" />
 
     <gap:splash src="appcapture.png" />
 
