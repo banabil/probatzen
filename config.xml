@@ -2,7 +2,7 @@
 <widget xmlns  	= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://lapitz.com/"
 	id		= "com.lapitz.test"
-	version 	= "1.2.0">
+	version 	= "1.3.0">
 
 	<name>Galderaitor</name>
 
@@ -22,11 +22,11 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" gap:role="default" />
-	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" width="96" height="96" />
-	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" width="72" height="72" />
-	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" width="48" height="48" />
-	<icon src="http://www.gasteizen.com/wp-content/themes/amazing-grace/amazing-grace/images/gasteizen.jpg" width="36" height="36" />
+	<icon src="galderaitor.png" gap:role="default" />
+	<icon src="galderaitor.png" width="96" height="96" />
+	<icon src="galderaitor.png" width="72" height="72" />
+	<icon src="galderaitor.png" width="48" height="48" />
+	<icon src="galderaitor.png" width="36" height="36" />
 
     <gap:splash src="appcapture.png" />
 
